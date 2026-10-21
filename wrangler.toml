@@ -1,0 +1,10 @@
+name = "pulserun"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# Optional: Configure build command if needed
+# build.command = "npm run build"
+
+# Optional: Add environment variables if needed
+# [vars]
+# MY_VARIABLE = "value"
